@@ -4,6 +4,11 @@
       "id": 1,
       "title": "Learn React Query",
       "completed": false
+    },
+    {
+      "title": "react 18",
+      "completed": true,
+      "id": 2
     }
   ]
 }
